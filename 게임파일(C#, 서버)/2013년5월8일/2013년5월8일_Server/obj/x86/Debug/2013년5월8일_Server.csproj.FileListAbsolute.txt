@@ -1,0 +1,5 @@
+D:\네트워크프로그래밍\2013년5월8일\2013년5월8일_Server\bin\Debug\2013년5월8일_Server.exe
+D:\네트워크프로그래밍\2013년5월8일\2013년5월8일_Server\bin\Debug\2013년5월8일_Server.pdb
+D:\네트워크프로그래밍\2013년5월8일\2013년5월8일_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\네트워크프로그래밍\2013년5월8일\2013년5월8일_Server\obj\x86\Debug\2013년5월8일_Server.exe
+D:\네트워크프로그래밍\2013년5월8일\2013년5월8일_Server\obj\x86\Debug\2013년5월8일_Server.pdb
